@@ -1,6 +1,6 @@
 # Data Science / Machine Learning portfolio by Tom deLaubenfels
 
-This portfolio is a compilation of notebooks/code which I created in order to explore data analysis and machine learning concepts. 
+This portfolio is a compilation of notebooks/code which I created in order to explore data analysis and machine learning concepts. Projects will be added here as I create them. 
 
 
 ## Kaggle competitions
